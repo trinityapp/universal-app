@@ -6,9 +6,9 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="16"
-8-->C:\Users\hp\AndroidStudioProjects\universal-app\LargeFilesUploadLibrary\src\main\AndroidManifest.xml
+8-->D:\universal-app\universal-app\LargeFilesUploadLibrary\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->C:\Users\hp\AndroidStudioProjects\universal-app\LargeFilesUploadLibrary\src\main\AndroidManifest.xml
+9-->D:\universal-app\universal-app\LargeFilesUploadLibrary\src\main\AndroidManifest.xml
 10    /
 11
 12</manifest>
